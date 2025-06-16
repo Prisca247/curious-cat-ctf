@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /snacks
+
+# Flag: CAT{r0b0ts_d0nt_hide_fr0m_me}
